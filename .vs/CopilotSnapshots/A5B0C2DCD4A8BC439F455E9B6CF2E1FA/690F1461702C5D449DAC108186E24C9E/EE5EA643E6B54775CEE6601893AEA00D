@@ -1,0 +1,45 @@
+﻿#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct _Student {
+	char ime[20];
+	char prezime[30];
+	int bodovi;
+}stud;
+int main()
+{
+	char buffer[50];
+	int brojac = 0;
+	FILE* fp = fopen("popis.txt", "r");
+	if (fp == NULL) {
+		printf("File nije uspjesno otvoren\n");
+		return -1;
+	}
+	while (!feof(fp)) {
+		fgets(buffer, 50, fp);
+		brojac++;
+	}
+	/* Rewind file pointer to beginning before reading entries */
+	rewind(fp);
+
+	stud* Studenti = NULL;
+	Studenti = (stud*)malloc(sizeof(stud) * brojac);
+	if (!Studenti) {
+		printf("Greska pri alokaciji memorije");
+		return -2;
+	}
+
+	for (int i = 0; i < brojac; i++) {
+		int scanned = fscanf(fp, " %19s %29s %d", Studenti[i].ime, Studenti[i].prezime, &Studenti[i].bodovi);
+		if (scanned != 3) {
+			/* handle read error or malformed line */
+			Studenti[i].ime[0] = '\0';
+			Studenti[i].prezime[0] = '\0';
+			Studenti[i].bodovi = 0;
+		}
+	}
+	fclose(fp);
+	free(Studenti);
+	return 0;
+}

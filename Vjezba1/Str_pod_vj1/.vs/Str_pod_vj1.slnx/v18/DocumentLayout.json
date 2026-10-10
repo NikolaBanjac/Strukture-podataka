@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1703FD83-DAAB-4DBC-97FE-DCC28A7F5295}|Str_pod_vj1\\Str_pod_vj1.vcxproj|C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj1\\Str_pod_vj1\\zadatak1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1703FD83-DAAB-4DBC-97FE-DCC28A7F5295}|Str_pod_vj1\\Str_pod_vj1.vcxproj|solutionrelative:Str_pod_vj1\\zadatak1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1703FD83-DAAB-4DBC-97FE-DCC28A7F5295}|Str_pod_vj1\\Str_pod_vj1.vcxproj|C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj1\\Str_pod_vj1\\popis.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1703FD83-DAAB-4DBC-97FE-DCC28A7F5295}|Str_pod_vj1\\Str_pod_vj1.vcxproj|solutionrelative:Str_pod_vj1\\popis.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadatak1.cpp",
+              "DocumentMoniker": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj1\\Str_pod_vj1\\zadatak1.cpp",
+              "RelativeDocumentMoniker": "Str_pod_vj1\\zadatak1.cpp",
+              "ToolTip": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj1\\Str_pod_vj1\\zadatak1.cpp",
+              "RelativeToolTip": "Str_pod_vj1\\zadatak1.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T14:09:07.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "popis.txt",
+              "DocumentMoniker": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj1\\Str_pod_vj1\\popis.txt",
+              "RelativeDocumentMoniker": "Str_pod_vj1\\popis.txt",
+              "ToolTip": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj1\\Str_pod_vj1\\popis.txt",
+              "RelativeToolTip": "Str_pod_vj1\\popis.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-10T14:50:04.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
