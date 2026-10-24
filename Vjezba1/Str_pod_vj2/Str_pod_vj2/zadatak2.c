@@ -72,6 +72,10 @@ int insertAfter(Position P, Position newP)
 
 int printlist(Position P)
 {
+	if (P->next == NULL) {
+		printf("Lista je prazna.\n");
+		return -3;
+	}
 	P = P->next;							//Ide na pokazivac//
 	while (P != NULL) {
 		printf("%s, %s, %d\n", P->ime, P->prezime, P->godina);  //Dok ne dodje do kraja liste ispisuje podatke//
