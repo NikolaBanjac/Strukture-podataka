@@ -1,0 +1,4 @@
+﻿  zadatak3.c
+C:\Users\banja\Desktop\Strukture podataka\Vjezba1\Str_pod_vj3\Str_pod_vj3\zadatak3.c(109,1): warning C4715: 'printlist': not all control paths return a value
+C:\Users\banja\Desktop\Strukture podataka\Vjezba1\Str_pod_vj3\Str_pod_vj3\zadatak3.c(223,1): warning C4715: 'sortfun': not all control paths return a value
+  Str_pod_vj3.vcxproj -> C:\Users\banja\Desktop\Strukture podataka\Vjezba1\Str_pod_vj3\x64\Debug\Str_pod_vj3.exe

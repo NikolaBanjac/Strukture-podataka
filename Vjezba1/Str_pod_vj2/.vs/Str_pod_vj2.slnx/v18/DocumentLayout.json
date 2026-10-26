@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7C89AE8-2183-4125-98FE-B8D43CFD7172}|Str_pod_vj2\\Str_pod_vj2.vcxproj|C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj2\\Str_pod_vj2\\zadatak2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7C89AE8-2183-4125-98FE-B8D43CFD7172}|Str_pod_vj2\\Str_pod_vj2.vcxproj|solutionrelative:Str_pod_vj2\\zadatak2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj3\\zadatak3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "zadatak2.c",
-              "DocumentMoniker": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj2\\Str_pod_vj2\\zadatak2.c",
-              "RelativeDocumentMoniker": "Str_pod_vj2\\zadatak2.c",
-              "ToolTip": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj2\\Str_pod_vj2\\zadatak2.c",
-              "RelativeToolTip": "Str_pod_vj2\\zadatak2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAMAAAAAAAAAA==",
+              "Title": "zadatak3.c",
+              "DocumentMoniker": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj3\\zadatak3.c",
+              "RelativeDocumentMoniker": "..\\Str_pod_vj3\\zadatak3.c",
+              "ToolTip": "C:\\Users\\banja\\Desktop\\Strukture podataka\\Vjezba1\\Str_pod_vj3\\zadatak3.c",
+              "RelativeToolTip": "..\\Str_pod_vj3\\zadatak3.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-10-19T19:41:31.809Z",
+              "WhenOpened": "2026-10-24T16:34:09.393Z",
               "EditorCaption": ""
             }
           ]

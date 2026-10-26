@@ -18,5 +18,8 @@
     <ClCompile Include="zadatak2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="zadatak3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

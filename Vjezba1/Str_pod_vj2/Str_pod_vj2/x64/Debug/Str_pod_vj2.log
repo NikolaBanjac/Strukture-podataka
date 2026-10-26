@@ -1,3 +1,4 @@
-﻿  zadatak2.c
-C:\Users\banja\Desktop\Strukture podataka\Vjezba1\Str_pod_vj2\Str_pod_vj2\zadatak2.c(84,1): warning C4715: 'printlist': not all control paths return a value
-  Str_pod_vj2.vcxproj -> C:\Users\banja\Desktop\Strukture podataka\Vjezba1\Str_pod_vj2\x64\Debug\Str_pod_vj2.exe
+﻿  zadatak3.c
+\zadatak3.c(1,1): error C1083: Cannot open source file: 'zadatak3.c': No such file or directory
+  (compiling source file '/zadatak3.c')
+  
