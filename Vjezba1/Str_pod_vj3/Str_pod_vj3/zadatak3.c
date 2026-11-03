@@ -184,6 +184,7 @@ int upisDat(Position P, char* imeDatoteke)
 	FILE* fp = fopen(imeDatoteke, "w");			//otvara (stvara) datoteku//
 	if (!fp) {
 		printf("Greska pri otvaranju datoteke.\n");
+		fclose(fp);
 		return -5;
 	}
 	P = P->next;

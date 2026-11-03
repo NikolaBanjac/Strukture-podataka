@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Str_pod_vj3/Str_pod_vj3.vcxproj" />
+  <Project Path="Str_pod_vj3/Str_pod_vj3.vcxproj" Id="bb9f1c02-c26e-4274-ab11-570b2ebc00f6" />
 </Solution>
