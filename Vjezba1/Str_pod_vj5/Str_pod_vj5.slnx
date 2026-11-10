@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Str_pod_vj5/Str_pod_vj5.vcxproj" />
+</Solution>
